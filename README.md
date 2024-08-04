@@ -3,7 +3,7 @@
 
 ## Description
 
-This C++ program implements a basic Student Record Management System. It allows users to manage student records by performing various operations such as adding records, deleting records, and sorting records based on different criteria. By the way its my 1st semester project of BSCS.
+This C++ program implements a basic Student Record Management System. It allows users to manage student records by performing various operations such as adding records, deleting records, and sorting records based on different criteria. This is my 1st semester project of BSCS.
 
 The program uses arrays to store student information, including roll number, midterm marks, final exam marks, class, and grade. Users can interact with the system through a menu-driven interface and choose from different options such as adding records, deleting records, and sorting records based on different parameters like marks and grades.
 
